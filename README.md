@@ -1,8 +1,6 @@
 # bitsler-script
 Bitsler.com Auto Game Script
 
-Get start,
-
 https://www.bitsler.com/play open this page.
 
 Run Debugging JavaScript in Browser DevTools
